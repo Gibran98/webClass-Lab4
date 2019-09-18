@@ -1,1 +1,1 @@
-Fourth lab of my web class regarding Javascrit basics
+Fourth lab of my web class regarding Javascript basics
