@@ -13,7 +13,7 @@ submit.addEventListener("click", (event)=>{
 
 	let newInput = document.createElement('input');
 	newInput.type = 'checkbox';
-	newInput.className = 'checkbox';
+	newInput.className = 'checkbox2';
 	newInput.id = 'checkbox';
 	let newSpan = document.createElement('span');
 	newSpan.appendChild(newText);

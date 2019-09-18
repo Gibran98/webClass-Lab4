@@ -86,7 +86,7 @@ fieldset{
   text-align: center;
 }
 
-#checkbox {
+.checkbox2 {
   display: inline;
   margin: 5px;
 }
