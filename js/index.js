@@ -14,8 +14,8 @@ submit.addEventListener("click", (event)=>{
 	let newInput = document.createElement('input');
 	newInput.type = 'checkbox';
 	newInput.className = 'checkbox2';
-	newInput.id = 'checkbox';
 	let newSpan = document.createElement('span');
+	newSpan.className = 'newSpan';
 	newSpan.appendChild(newText);
 
 	newDiv.appendChild(newInput);
